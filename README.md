@@ -1,4 +1,5 @@
 Allgemeine Hinweise:
+
 * Nutzer, die dieses lua-Modul nur installieren wollen, gehen dabei am
   besten so wie [hier](https://github.com/dying-horse/gr_rocks/#readme)
   beschrieben vor.
@@ -7,6 +8,7 @@ Allgemeine Hinweise:
   [luadoc](http://keplerproject.github.com/luadoc/)-System, das man sich
   mit Hilfe von [luarocks](http://luarocks.org/) beschaffen kann:
   `luarocks install luadoc`.
+
 
 Um `gr_source` zu aktivieren, verwende:
 
