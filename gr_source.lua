@@ -7,6 +7,6 @@ require "gr_source_str"
 local mt = { __index = source }
 
 setmetatable(source.bytes, mt)
-setmetatable(source.blk, mt)
+setmetatable(source.blk,   mt)
 setmetatable(source.file,  mt)
 setmetatable(source.str,   mt)
